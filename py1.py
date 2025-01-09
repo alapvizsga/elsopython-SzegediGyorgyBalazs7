@@ -46,10 +46,11 @@ def szamtani_kozep(szam1, szam2):
         visszatér a számtani középpel.
     """
     pass # Írd a kódodat a következő sorokba!
+    return (szam1+szam2) / 2
     
 
 
-#assert szamtani_kozep(3, 5) == 4.0
+assert szamtani_kozep(3, 5) == 4.0
 #---------------------------------------------------------
  
 def negyzet_kerulet(oldal):
